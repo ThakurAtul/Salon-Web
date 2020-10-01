@@ -1,0 +1,194 @@
+.navbar{
+    background-color: gold;
+    color: black;
+}
+.navbar-toggler-icon{
+    background-color: black;
+
+}
+.navbar-nav li a {
+    color: rgb(0, 0, 0);
+    font-size: 20px;
+    font-family: Cambria;
+   margin-left: 10px;
+   position: relative;
+   left: 40%;
+   
+}
+.navbar-nav li a:hover{
+    color: rgb(255, 255, 255);
+}
+
+.social{
+    position: relative;
+    right: 0;
+    
+}
+.social a{
+    margin-left: 10px;
+}
+.content {
+    position: relative;
+   
+    color: white;
+    display: inline-block;
+  }
+
+.intro{
+    position: absolute;
+    top: 40%;  
+    text-align: center;
+    width: 60%;
+    font-family: Cambria;
+}
+.intro button{
+    padding: 10px;
+    border-radius: 11px;
+    width: 180px;
+    background-color: gold;
+}
+.intro h1{
+    font-size: 2cm;
+    padding-top: 0;
+    padding-bottom: 20px;
+    font-family: Cambria;
+}
+
+.intro button:hover{
+    background-color: black;
+    color: white;
+}
+
+.description{
+    text-align: center;
+    padding: 50px;
+    position: relative;
+    left: 30%;
+    width: 40%;
+    font-size: 20px;
+    font-family: Cambria;
+}
+
+.about {
+    width: 60%;
+    position: relative;
+    left: 21%;
+    display: inline-block;
+    padding-bottom: 30px;
+    
+}
+.picdis{
+    background-color: gold;
+    color: black;
+    font-size: 20px;
+    padding: 20px;
+    font-family: Cambria;
+
+}
+.picdis button{
+    padding: 10px;
+    border-radius: 11px;
+    width: 150px;
+    color: gold;
+    position: relative;
+    left: 40%;
+    font-family: Cambria;
+    background-color: rgb(10, 10, 10);
+}
+
+.picdis button:hover{
+    background-color: gold;
+    color: black;
+    font-family: Cambria;
+
+}
+.services {
+    width: 100%;
+    position: relative;
+    left: 0%;
+    display: inline-block;
+    
+    background-color: rgb(255, 255, 255);
+    
+}
+.services h1{
+    text-align: center;
+    padding: 40px;
+    font-family: Cambria;
+    font-size: 40px;
+}
+
+
+
+
+
+.row .left-column .card{
+    padding: 30px;
+    border: 2px solid gold;
+    background-color: rgb(169, 243, 237);
+    position: relative;
+    left: 8%;
+    margin: 50px;
+    border-radius: 25px;
+    font-family: Cambria;
+    box-shadow:  0px  4px  8px  0px  gold;
+
+}
+.row .left-column .card:hover{
+    box-shadow: 2px gold;
+}
+.row .left-column .card .container input{
+    padding: 8px;
+    width: 280px;
+    margin: 20px;
+    border: 2px solid rgb(169, 243, 237);
+    border-radius: 15px;
+    font-family: Cambria;
+}
+
+.row .left-column .card .container input:hover{
+    border:2px solid gold ;
+    border-radius: 15px;
+    font-family: Cambria;
+}
+
+
+.right-column .card{
+    padding: 50px;
+    position: relative;
+    left: 35%;
+    margin: 50px;
+    border: 2px solid gold;
+    background-color: rgb(169, 243, 237);
+    border-radius: 25px;
+    box-shadow:  0px  4px  8px  0px  gold;
+    font-family: Cambria;
+
+}
+.row .left-column .card .container button{
+    background-color: gold;
+    color: black;
+    font-family: Cambria;
+    border-radius: 25px;
+    width: 120px;
+    text-align: center;
+    padding: 10px;
+    margin: 40px;
+    position: relative;
+    left: 30%;
+
+}
+.row .left-column .card .container button:hover{
+    background-color: black;
+    color: white;
+    border-radius: 25px;
+}
+.row .left-column .card .container textarea{
+    border: 2px solid  rgb(169, 243, 237);
+    border-radius: 25px;
+    padding: 8px;
+}
+
+
+
+
