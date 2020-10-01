@@ -123,15 +123,16 @@
 
 
 .row .left-column .card{
-    padding: 30px;
+    padding: 20px;
     border: 2px solid gold;
     background-color: rgb(169, 243, 237);
     position: relative;
     left: 8%;
-    margin: 50px;
+    margin: 30px;
     border-radius: 25px;
     font-family: Cambria;
     box-shadow:  0px  4px  8px  0px  gold;
+    width: 80%;
 
 }
 .row .left-column .card:hover{
@@ -139,8 +140,8 @@
 }
 .row .left-column .card .container input{
     padding: 8px;
-    width: 280px;
-    margin: 20px;
+    width: 230px;
+    margin: 10px;
     border: 2px solid rgb(169, 243, 237);
     border-radius: 15px;
     font-family: Cambria;
@@ -170,10 +171,10 @@
     color: black;
     font-family: Cambria;
     border-radius: 25px;
-    width: 120px;
+    width: 150px;
     text-align: center;
     padding: 10px;
-    margin: 40px;
+    margin: 20px;
     position: relative;
     left: 30%;
 
@@ -187,8 +188,10 @@
     border: 2px solid  rgb(169, 243, 237);
     border-radius: 25px;
     padding: 8px;
+    margin-left: 14px;
+    width: 93%;
+
+
+
+
 }
-
-
-
-
